@@ -1,24 +1,25 @@
-
-{"dishes ": [
-  "Oatmeal with fruits",
-  "Grilled chicken salad",
-  "Spaghetti with marinara sauce",
-  "Scrambled eggs with toast",
-  "Vegetable stir-fry",
-  "Beef tacos",
-  "Smoothie bowl",
-  "Quinoa salad",
-  "Grilled salmon with asparagus",
-  "Yogurt with granola",
-  "Turkey wrap",
-  "Pasta primavera",
-  "Bagel with cream cheese",
-  "Caesar salad",
-  "BBQ chicken wings",
-  "Pancakes with syrup",
-  "Club sandwich",
-  "Curry with rice",
-  "French toast",
-  "Lentil soup",
-  "Roast beef with vegetables"
-]}
+{
+  "dishes": [
+    "Oatmeal with fruits",
+    "Grilled chicken salad",
+    "Spaghetti with marinara sauce",
+    "Scrambled eggs with toast",
+    "Vegetable stir-fry",
+    "Beef tacos",
+    "Smoothie bowl",
+    "Quinoa salad",
+    "Grilled salmon with asparagus",
+    "Yogurt with granola",
+    "Turkey wrap",
+    "Pasta primavera",
+    "Bagel with cream cheese",
+    "Caesar salad",
+    "BBQ chicken wings",
+    "Pancakes with syrup",
+    "Club sandwich",
+    "Curry with rice",
+    "French toast",
+    "Lentil soup",
+    "Roast beef with vegetables"
+  ]
+}
