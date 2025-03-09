@@ -1,36 +1,43 @@
 {
   "weekMenu": {
     "Monday": {
+        "id": "",
       "breakfast": "",
       "lunch": "",
       "dinner": ""
     },
     "Tuesday": {
+        "id": "",
       "breakfast": "",
       "lunch": "",
       "dinner": ""
     },
     "Wednesday": {
+        "id": "",
       "breakfast": "",
       "lunch": "",
       "dinner": ""
     },
     "Thursday": {
+        "id": "",
       "breakfast": "",
       "lunch": "",
       "dinner": ""
     },
     "Friday": {
+        "id": "",
       "breakfast": "",
       "lunch": "",
       "dinner": ""
     },
     "Saturday": {
+        "id": "",
       "breakfast": "",
       "lunch": "",
       "dinner": ""
     },
     "Sunday": {
+        "id": "",
       "breakfast": "",
       "lunch": "",
       "dinner": ""
